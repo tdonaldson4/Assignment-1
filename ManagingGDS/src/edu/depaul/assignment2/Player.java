@@ -7,7 +7,7 @@ public class Player {
 	public static void main(String[] args) {
 		Player player = new Player();
 		player.numPlayers=0;
-		System.out.println("Player object created!");
+		System.out.println("Player object has been created!");
 	}
 
 	
